@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1740545441760" clover="3.2.0">
+  <project timestamp="1740545441761" name="All files">
+    <metrics statements="45" coveredstatements="44" conditionals="26" coveredconditionals="25" methods="10" coveredmethods="10" elements="81" coveredelements="79" complexity="0" loc="45" ncloc="45" packages="1" files="2" classes="2"/>
+    <file name="AddTaskForm.jsx" path="C:\ICET\to do-app\front-end\to-do\src\components\AddTaskForm.jsx">
+      <metrics statements="19" coveredstatements="19" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="123" type="stmt"/>
+      <line num="6" count="123" type="stmt"/>
+      <line num="13" count="123" type="stmt"/>
+      <line num="14" count="123" type="stmt"/>
+      <line num="16" count="123" type="stmt"/>
+      <line num="17" count="108" type="stmt"/>
+      <line num="18" count="108" type="stmt"/>
+      <line num="24" count="123" type="stmt"/>
+      <line num="25" count="5" type="stmt"/>
+      <line num="26" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="4" type="stmt"/>
+      <line num="29" count="4" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="32" count="4" type="stmt"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="50" count="4" type="stmt"/>
+      <line num="54" count="123" type="stmt"/>
+    </file>
+    <file name="TaskList.jsx" path="C:\ICET\to do-app\front-end\to-do\src\components\TaskList.jsx">
+      <metrics statements="26" coveredstatements="25" conditionals="16" coveredconditionals="15" methods="6" coveredmethods="6"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="10" type="stmt"/>
+      <line num="6" count="10" type="stmt"/>
+      <line num="7" count="35" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="28" type="stmt"/>
+      <line num="9" count="28" type="stmt"/>
+      <line num="12" count="10" type="stmt"/>
+      <line num="13" count="35" type="cond" truecount="5" falsecount="1"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="18" count="7" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="23" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="27" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="42" count="7" type="stmt"/>
+      <line num="44" count="7" type="stmt"/>
+      <line num="47" count="35" type="stmt"/>
+      <line num="48" count="35" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
